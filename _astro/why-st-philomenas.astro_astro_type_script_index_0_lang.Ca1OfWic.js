@@ -1,0 +1,1 @@
+import{r as e}from"./track.BTF-AH4H.js";document.querySelectorAll(`[data-book-visit]`).forEach(t=>t.addEventListener(`click`,()=>e(`visit_booked`,{via:`whatsapp`})));
