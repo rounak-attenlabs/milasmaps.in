@@ -1,0 +1,1 @@
+import{n as e}from"./track.JcLKvpJX.js";document.querySelectorAll(`[data-book-visit]`).forEach(t=>t.addEventListener(`click`,()=>e(`visit_booked`,{via:`whatsapp`})));
